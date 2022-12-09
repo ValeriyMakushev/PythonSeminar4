@@ -6,7 +6,7 @@
 import random
 
 def write_file(st):
-    with open('file33.txt', 'w') as data:
+    with open('file4.txt', 'w') as data:
         data.write(st)
 
 
